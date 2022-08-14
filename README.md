@@ -43,8 +43,11 @@
 ![image](https://user-images.githubusercontent.com/111111384/184554840-781347a7-4bf0-4905-b179-1543718f3ee1.png)
 ![image](https://user-images.githubusercontent.com/111111384/184554869-ac319f95-580c-47cc-b9ae-2bb69f0ca803.png)
 
+## Группы
 
+> **Я создал 3 группы спрайтов. 1 - группа тен, 2 - группа пуль и 3 -группа врагов. Каждую стену, врага, пулю я добавил в эти группы.**
 
+![Расходный материал](https://user-images.githubusercontent.com/111111384/184555007-2ea39255-f943-4963-9f0a-48cfc8870140.png)
 
 
 
