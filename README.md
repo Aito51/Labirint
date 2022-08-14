@@ -28,8 +28,22 @@
 
 > **Классы Enemy3, Enemy4 и Enemy5 ходят так же как и Enemy1, Enemy6 так же как и Enemy2 но только с другуми цифрами.**
 
-![Расходный материал](https://user-images.githubusercontent.com/111111384/184554480-efe0e8b7-cc58-477f-82aa-23dbb7cb2686.png)
+![Расходный материал](https://user-images.githubusercontent.com/111111384/184554569-01584965-2684-4478-ad90-b345b445589b.png)
+
 ![image](https://user-images.githubusercontent.com/111111384/184554507-41423b7c-ad9b-4155-b6db-6a2ba8a2d43a.png)
+
+> **Класс Wall имеет такие свойства как RGB цвет(красный, зеленый, синий), кординаты по х и у, ширина и высота. Метод draw_wall ничем не отличается от метода отрисовка спрайта reset в классе GameSprite.**
+
+![image](https://user-images.githubusercontent.com/111111384/184554694-563d3c2e-489c-416e-8de3-7c98d5aeebd7.png)
+
+## Окно программы и персонажи
+
+> **Далее я создал окно программы шириной 700, высотой 500 пикселей. Дав название проекту, добавил туда изобрадение заднего фона. Затем я создал персонажей по их класса. Финального спрайта я создал по шаблону GameSprite. Стен у меня вышло 23.**
+
+![image](https://user-images.githubusercontent.com/111111384/184554840-781347a7-4bf0-4905-b179-1543718f3ee1.png)
+![image](https://user-images.githubusercontent.com/111111384/184554869-ac319f95-580c-47cc-b9ae-2bb69f0ca803.png)
+
+
 
 
 
